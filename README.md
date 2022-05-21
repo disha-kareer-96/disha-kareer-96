@@ -1,0 +1,7 @@
+- 👋 Hi, 
+- I'm Disha Kareer, a final year student of BSc Computing and Information Technology degree graduating in July 2022 from Queen's University Belfast
+- 👀 I’m interested in web development using HTML CSS, PHP and MySQL, UX design and project management.
+- 💞️ I’m looking to collaborate on paid and freelance projects that will be added to my portfolio
+- 📫 How to reach me...
+- email - dkareer01@gmail.com
+- linkedin - https://www.linkedin.com/in/disha-kareer/ 
