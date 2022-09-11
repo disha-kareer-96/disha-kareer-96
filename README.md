@@ -1,7 +1,9 @@
-- 👋 Hi, 
-- I'm Disha Kareer, a final year student of BSc Computing and Information Technology degree graduating in July 2022 from Queen's University Belfast
+- 👋 Hello everyone, 
+- I'm Disha Kareer, BSc in Computing and Information Technology Graduate from Queen's University Belfast. The placement year was completed at Puppet Belfast as a Software Engineer Intern 🧑‍💻
 - 👀 I’m interested in web development using HTML CSS, PHP and MySQL, UX design and project management.
-- 💞️ I’m looking to collaborate on paid and freelance projects that will be added to my portfolio
+- 💞️ I’m looking to collaborate on freelance projects that will be added to my linked profile/portfolio
 - 📫 How to reach me...
-- email - dkareer01@gmail.com
-- linkedin - https://www.linkedin.com/in/disha-kareer/ 
+- emails - 
+- dkareer01@gmail.com
+- dishakareer@yahoo.co.uk
+- linkedin - https://www.linkedin.com/in/disha-kareer/
